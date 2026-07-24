@@ -18,3 +18,4 @@ Y - 파이썬으로
 CTRL + ENTER
 SHIFT + ENTER
 
+주피터
